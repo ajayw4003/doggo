@@ -1,0 +1,23 @@
+option{
+    text-transform: capitalize;
+}
+.app{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+}
+.select{
+    background-color: lightblue;
+    width: 40%;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+img{
+    border: 3px solid crimson;
+    border-radius: 8px;
+}
